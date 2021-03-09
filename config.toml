@@ -1,3 +1,4 @@
+baseURL = "/"
 languageCode = "en-gb"
 title = "Coding Ninja"
 theme = "hugo-theme-blueberry-detox"
