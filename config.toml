@@ -1,6 +1,7 @@
 languageCode = "en-gb"
 title = "Coding Ninja"
 theme = "hugo-theme-blueberry-detox"
+relativeURLs = true
 
 disqusShortname = "CodingNinja"
 googleAnalytics = "UA-31646124-1"
