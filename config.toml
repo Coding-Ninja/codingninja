@@ -1,0 +1,38 @@
+baseURL = "https://www.codingninja.co.uk/"
+languageCode = "en-gb"
+title = "Coding Ninja"
+theme = "hugo-theme-blueberry-detox"
+
+disqusShortname = "CodingNinja"
+googleAnalytics = "UA-31646124-1"
+
+[Params]
+  subtitle   = "coding in the darkness"
+  description = "coding in the darkness"
+  author     = "Zen Master" 
+  logo       = "img/ninja.jpg"
+  favicon    = "img/favicon.ico"
+  dateFormat = "January 2, 2006"
+  rss        = true
+  comments   = true
+
+[Author]
+    name    = "Zen Master"
+    website = "www.codingninja.co.uk"
+    email   = "zen.master@codingninja.co.uk"
+    twitter = "__CodingNinja"
+
+[[menu.main]]
+  name = "About"
+  url = "page/about/"
+  weight = 3
+
+[[menu.main]]
+    name = "Privacy"
+    url = "page/privacy/"
+    weight = 4
+
+[[menu.main]]
+  name = "Tags"
+  url = "tags"
+  weight = 3
